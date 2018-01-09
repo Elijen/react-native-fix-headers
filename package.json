@@ -1,0 +1,15 @@
+{
+  "name": "expo-header-search-paths",
+  "version": "1.0.0",
+  "description": "Automatically fix Header Search Paths in React Native modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "xcode": "^1.0.0"
+  }
+}
