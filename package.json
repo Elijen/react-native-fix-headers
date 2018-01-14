@@ -1,12 +1,13 @@
 {
-  "name": "expo-header-search-paths",
-  "version": "1.1.6",
+  "name": "react-native-fix-headers",
+  "version": "1.2.0",
   "description": "Automatically fix Header Search Paths in React Native modules",
+  "keywords": ["react", "react native", "xcode", "header search paths", "expo", "fix headers"],
   "main": "index.js",
   "bin": {
-    "expo-fix": "index.js"
+    "react-native-fix-headers": "index.js"
   },
-  "author": "",
+  "author": "Petr Peller",
   "license": "ISC",
   "dependencies": {
     "glob": "^7.1.2",
