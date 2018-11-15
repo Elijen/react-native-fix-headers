@@ -2,7 +2,14 @@
   "name": "react-native-fix-headers",
   "version": "1.2.0",
   "description": "Automatically fix Header Search Paths in React Native modules",
-  "keywords": ["react", "react native", "xcode", "header search paths", "expo", "fix headers"],
+  "keywords": [
+    "react",
+    "react native",
+    "xcode",
+    "header search paths",
+    "expo",
+    "fix headers"
+  ],
   "main": "index.js",
   "bin": {
     "react-native-fix-headers": "index.js"
