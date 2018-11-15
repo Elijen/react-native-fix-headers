@@ -4,7 +4,7 @@ var glob = require('glob');
 var xcode = require('xcode');
 
 
-glob('node_modules/**/ios/**/*.xcodeproj/project.pbxproj', {}, function(err, files) {
+glob('node_modules/**/*.xcodeproj/project.pbxproj', {}, function(err, files) {
   files.map(function(file){
     var xcodeProject = xcode.project(file);
     xcodeProject.parse(function(){
