@@ -1,6 +1,6 @@
 {
   "name": "react-native-fix-headers",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Automatically fix Header Search Paths in React Native modules",
   "keywords": [
     "react",
